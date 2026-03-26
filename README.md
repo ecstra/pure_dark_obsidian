@@ -5,9 +5,9 @@ A clean, highly customized Obsidian theme designed to achieve perfect 1-to-1 vis
 ## Previews
 
 <div align="center">
-  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c9af4a7-d138-4dbb-b5a3-9c7d1fd3de98" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4c922f3-8c9c-48d3-a75e-9d83f8410387" />
   <br/>
-  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ac2e8ecf-8a91-4cc8-bfe7-7fe390e78951" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9700446-2263-41ff-8cb7-6800d200dc07" />
 </div>
 
 ## Key Features
