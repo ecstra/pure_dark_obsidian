@@ -5,9 +5,9 @@ A clean, highly customized Obsidian theme designed to achieve perfect 1-to-1 vis
 ## Previews
 
 <div align="center">
-  <img width="1918" alt="Desktop View" src="https://github.com/user-attachments/assets/8d17a880-265a-4a27-af33-b15fc929191b" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c9af4a7-d138-4dbb-b5a3-9c7d1fd3de98" />
   <br/>
-  <img width="965" alt="Split View / Detail" src="https://github.com/user-attachments/assets/01ee06af-5a94-4ace-a2b3-9a47aa5d26b7" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ac2e8ecf-8a91-4cc8-bfe7-7fe390e78951" />
 </div>
 
 ## Key Features
