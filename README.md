@@ -21,6 +21,3 @@ This theme overhauls the default Obsidian UI with careful attention to document 
   * `H3` through `H6` feature custom left-border accents and subtle background gradients to create a clear visual hierarchy.
 * **Stylized Elements:** Custom checkbox styling, pill-shaped tags, zebra-striped tables, and redesigned footnote sections.
 * **Custom Callouts:** Full support for Obsidian's native callouts (`[!info]`, `[!danger]`, `[!example]`, etc.) with bespoke background opacities and border colors.
-
-Would you like me to help write out a few specific CSS snippets that users could use to easily tweak the theme colors, just in case they ask in your GitHub issues?
-```
