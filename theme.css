@@ -9,6 +9,8 @@
 ░░░░░          ░░░░░░░░ ░░░░░      ░░░░░░     ░░░░░░░░░░    ░░░░░░░░ ░░░░░     ░░░░ ░░░░░ 
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
 /* ==========================================================================
    1. THEME VARIABLES
    ========================================================================== */
@@ -58,6 +60,9 @@ body {
   --h5-color: #d9d9d9 !important;
   --h6-color: #a3a3a3 !important;
 
+  /* Highlight Background */
+  --text-highlight-bg: rgba(249, 115, 22, 0.40) !important;
+
   /* Accents */
   --interactive-accent: #e11d48 !important;
   --border-color: #27272a !important;
@@ -94,6 +99,9 @@ body {
   /* Keep the Red accent */
   --interactive-accent-hover: #be123c !important;
   --text-on-accent: #ffffff !important;
+
+  /* Highlight Background */
+  --text-highlight-bg: rgba(249, 115, 22, 0.35) !important;
 
   --hr-color: #d4d4d8 !important;
   --border-color: rgba(0, 0, 0, 0.1) !important;
